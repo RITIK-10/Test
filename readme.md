@@ -1,2 +1,2 @@
 # Hello
-This is a sample repo.
+This is a secondary branch.
